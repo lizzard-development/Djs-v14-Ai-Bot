@@ -51,7 +51,7 @@ veya
 
 node index.js
 
-5. Hazır! Ares artık sunucunuzda aktif! ⚡
+5. Hazır! Ares artık sunucunuzda aktif! ⚡```
 
 
 ---
