@@ -28,22 +28,21 @@ Groq API gücünü arkasına alarak, topluluğunuzda akıllı ve hızlı yanıtl
 ---
 
 ## 🛠️ Kurulum
-
-### 1. Projeyi klonlayın:
 ```bash
+# 1. Projeyi klonlayın:
 git clone https://github.com/lizzard-development/Djs-v14-Ai-Bot
 
-2. .env dosyasını oluşturun ve şu bilgileri girin:
+# 2. .env dosyasını oluşturun ve şu bilgileri girin:
 
 TOKEN=discord-bot-tokenunuz
 CLIENT_ID=discord-client-idniz
 GROQ_API_KEY=groq-api-keyiniz
 
-3. Bağımlılıkları yükleyin:
+# 3. Bağımlılıkları yükleyin:
 
 npm install
 
-4. Botu başlatın:
+# 4. Botu başlatın:
 
 npm start
 
@@ -51,7 +50,7 @@ veya
 
 node index.js
 
-5. Hazır! Ares artık sunucunuzda aktif! ⚡```
+# 5. Hazır! Ares artık sunucunuzda aktif! ⚡
 
 
 ---
