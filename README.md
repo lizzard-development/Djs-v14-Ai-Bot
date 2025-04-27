@@ -28,9 +28,10 @@ Groq API gücünü arkasına alarak, topluluğunuzda akıllı ve hızlı yanıtl
 ---
 
 ## 🛠️ Kurulum
-```bash
+
 # 1. Projeyi klonlayın:
-git clone https://github.com/lizzard-development/Djs-v14-Ai-Bot
+git clone 
+https://github.com/lizzard-development/Djs-v14-Ai-Bot
 
 # 2. .env dosyasını oluşturun ve şu bilgileri girin:
 
